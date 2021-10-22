@@ -7,7 +7,6 @@
 int main()
 {
     //ДЗ 3 п.1:
-    /*
     circle cir(5);
     rectangle rec(5,8);
     square sq(5);
@@ -17,15 +16,14 @@ int main()
     std::cout << sq.area() << "\n";
     std::cout << rh.area() << "\n";
     std::cout << "\n";
-    */
+    
     //ДЗ 3 п.2:
-    /*
     car c("Vas", "2107");
     passenger_car p("Ford","Mustang");
     bus b("Shcool","Yellow");
     minivan m("Lada", "Granta");
-    */
-
+    
+    //ДЗ 3 п.1:
     fraction fr1(1, 3);
     fraction fr2 = -fr1;
     fr1.print_fraction();
